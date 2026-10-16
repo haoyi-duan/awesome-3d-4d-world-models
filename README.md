@@ -278,6 +278,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `PAWA` | [![arXiv](https://img.shields.io/badge/arXiv-2610.20240-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.20240)<br>PAWA: Panoramic Action-conditioned World Modeling for Multiple Agents | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://pawa.siki.moe/) | [Data pipeline](https://github.com/yousiki/pawa-pipeline) |
 | `DepthWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2610.08780-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.08780)<br>DepthWorld: 3D World Model for Robot Manipulation | CoRL 2026 | [Project](https://jaibardhan.com/depthworld/) | [Code](https://github.com/Jai2500/depthworld) |
 | `CoDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2609.34749-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.34749)<br>CoDrive: Cross-Vehicle World-Consistent Video Generation with Precise Trajectory Control for Cooperative Driving | arXiv 2026 | [Project](https://codrive-project-page.github.io/) | - |
 | `SA-WAM` | [![arXiv](https://img.shields.io/badge/arXiv-2609.02531-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.02531)<br>Spatially Aware World Action Model via Geometric Latent Diffusion | arXiv 2026 | [Project](https://jlopetegui98.github.io/projects/sa_wam.html) | - |
@@ -327,6 +328,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `GeoState` | [![arXiv](https://img.shields.io/badge/arXiv-2610.22343-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.22343)<br>GeoState: Learning View-Decoupled Geometry States for 3D World Modeling | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://hongchang-liu.github.io/GeoState-project-page/) | [![GitHub](https://img.shields.io/github/stars/Hongchang-Liu/GeoState)](https://github.com/Hongchang-Liu/GeoState) |
 | `World Observer` | [![arXiv](https://img.shields.io/badge/arXiv-2610.02162-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.02162)<br>World Observer: Joint Actor-Observer Generation for Persistent World Modeling | arXiv 2026 | [Project](https://cvlab-kaist.github.io/world-observer/) | [Repo (release pending)](https://github.com/cvlab-kaist/world-observer) |
 | `WorldWeave` | [![arXiv](https://img.shields.io/badge/arXiv-2609.34221-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.34221)<br>WorldWeave: Growing Persistent Geometric Worlds for Video Generation | arXiv 2026 | - | - |
 | `WorldCrafter` | [![arXiv](https://img.shields.io/badge/arXiv-2609.24984-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.24984)<br>WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://drexubery.github.io/WorldCrafter/) | [![GitHub](https://img.shields.io/github/stars/TencentARC/WorldCrafter)](https://github.com/TencentARC/WorldCrafter) |
@@ -377,6 +379,8 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `Gen4P` | [![arXiv](https://img.shields.io/badge/arXiv-2610.22371-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.22371)<br>Gen4P: Video Generators are 4D Perceivers | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://gen4p.github.io/) | [Repo (WIP)](https://github.com/yitongx/Gen4P) |
+| `Edit4D` | [![arXiv](https://img.shields.io/badge/arXiv-2610.21668-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.21668)<br>Edit4D: Editable 4D Scene Generation with Textual Control | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://chanwo0kim.github.io/Edit4D/) | - |
 | `RoGSW4RLD` | [![arXiv](https://img.shields.io/badge/arXiv-2609.35311-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.35311)<br>RoGSW4RLD: Feed-Forward 4D Gaussian Lifting for Robot World Model Rollouts | arXiv 2026 | - | - |
 | `PhysReal` | [![arXiv](https://img.shields.io/badge/arXiv-2609.07532-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.07532)<br>PhysReal: Learning Real-World Deformable Object Physics via Hybrid Constitutive Modeling | arXiv 2026 | - | - |
 | `Streaming4D` | [![arXiv](https://img.shields.io/badge/arXiv-2609.00610-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.00610)<br>Streaming4D: Accelerate 4D World Models via Block-wise Video Generation and Incremental Reconstruction | arXiv 2026 | - | - |
@@ -550,6 +554,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `LiFi` | [![arXiv](https://img.shields.io/badge/arXiv-2610.19786-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.19786)<br>LiFi: LiDAR Generation from Multi-View Images via Geometric and Semantic Collaborative Guidance | arXiv 2026 | - | - |
 | `LiDAR4D-Anno` | [![arXiv](https://img.shields.io/badge/arXiv-2608.25418-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.25418)<br>Bootstrapping a 4D LiDAR Annotation Tool from Video Foundation Models | arXiv 2026 | - | - |
 ||
 | `DUSty` | [![arXiv](https://img.shields.io/badge/arXiv-2102.11952-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2102.11952)<br>Learning to Drop Points for LiDAR Scan Synthesis | IROS 2021 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://kazuto1011.github.io/dusty-gan/) | [![GitHub](https://img.shields.io/github/stars/kazuto1011/dusty-gan)](https://github.com/kazuto1011/dusty-gan) |
@@ -621,6 +626,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `LidarVerse` | [![arXiv](https://img.shields.io/badge/arXiv-2610.19201-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.19201)<br>Into the LidarVerse: A Real-Time Unified LiDAR World Model Across Tasks and Sensors | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://research.nvidia.com/labs/sil/projects/lidarverse/) | - |
 ||
 | `HoloDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2412.01407-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2412.01407)<br>HoloDrive: Holistic 2D-3D Multi-Modal Street Scene Generation for Autonomous Driving | arXiv 2024 | - | - |
 | `LidarDM` | [![arXiv](https://img.shields.io/badge/arXiv-2404.02903-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2404.02903)<br>LidarDM: Generative LiDAR Simulation in a Generated World | ICRA 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://zyrianov.org/lidardm/) | [![GitHub](https://img.shields.io/github/stars/vzyrianov/lidardm)](https://github.com/vzyrianov/lidardm) |  
