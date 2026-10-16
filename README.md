@@ -126,6 +126,8 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 - [**OccStress: Stress-Testing the 4D Occupancy Forecasting Chain**](https://arxiv.org/abs/2512.15621) (NeurIPS 2026): a robustness benchmark for occupancy forecasting under upstream perception errors and controlled occupancy-state corruptions. [[Code](https://github.com/InSAI-Lab/OccStress)] [[Dataset](https://huggingface.co/datasets/insailab/OccStress)] [[Project](https://insailab.org/OccStress/)]
 
+- [**Orbia: Do Generated Videos Form a Consistent 3D World?**](https://arxiv.org/abs/2610.20693) (arXiv 2026): an exploration-and-revisit benchmark separating input preservation, generated-content persistence, and 3D self-consistency. [[Code](https://github.com/worldbench/Orbia)] [[Project](https://orbia-bench.github.io/)]
+
 ### Workshops
 
 | Theme | Venue | Date | Location | Recording |
@@ -656,6 +658,7 @@ Together, these models provide the foundation for simulation, planning, and embo
 | `GenieDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2512.12751-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.12751)<br>GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation | CVPR 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://huster-yzy.github.io/geniedrive_project_page/) | [![GitHub](https://img.shields.io/github/stars/Huster-YZY/GenieDrive)](https://github.com/Huster-YZY/GenieDrive) |
 | `AD-R1` | [![arXiv](https://img.shields.io/badge/arXiv-2511.20325-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.20325)<br>AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models | CVPR 2026 | - | - |
 | `Xiaomi OneVL` | [![arXiv](https://img.shields.io/badge/arXiv-2604.18486-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.18486)<br>Xiaomi OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation | arXiv 2026 | - | - |
+| `VITAL` | [![arXiv](https://img.shields.io/badge/arXiv-2610.20604-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.20604)<br>VITAL: From Visual Motion to Precise Action | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://worldbench.github.io/vital) | [![GitHub](https://img.shields.io/github/stars/worldbench/VITAL)](https://github.com/worldbench/VITAL) |
 ||
 
 
