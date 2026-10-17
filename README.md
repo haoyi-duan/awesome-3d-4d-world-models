@@ -128,9 +128,8 @@ Together, these models provide the foundation for simulation, planning, and embo
 
 - [**Orbia: Do Generated Videos Form a Consistent 3D World?**](https://arxiv.org/abs/2610.20693) (arXiv 2026): an exploration-and-revisit benchmark separating input preservation, generated-content persistence, and 3D self-consistency. [[Code](https://github.com/worldbench/Orbia)] [[Project](https://orbia-bench.github.io/)]
 
-- [**WorldScore: A Unified Evaluation Benchmark for World Generation**](https://arxiv.org/abs/2512.15621) (ICCV 2025): a unified evaluation benchmark for 3D-, 4D-, and video-based world generation models. [[Code](https://github.com/haoyi-duan/WorldScore)] [[Dataset](https://huggingface.co/datasets/Howieeeee/WorldScore)] [[Project](https://haoyi-duan.github.io/WorldScore/)]
+- [**WorldScore: A Unified Evaluation Benchmark for World Generation**](https://arxiv.org/abs/2504.00983) (ICCV 2025): a unified evaluation benchmark for 3D-, 4D-, and video-based world generation models. [[Code](https://github.com/haoyi-duan/WorldScore)] [[Dataset](https://huggingface.co/datasets/Howieeeee/WorldScore)] [[Project](https://haoyi-duan.github.io/WorldScore/)]
 
-  
 ### Workshops
 
 | Theme | Venue | Date | Location | Recording |
